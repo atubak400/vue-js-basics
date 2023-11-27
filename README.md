@@ -45,17 +45,17 @@ code index.html
 
 4. Code explanation for index.html:
 
-* <!DOCTYPE html>: Defines the document type and version of HTML being used.
+* "<!DOCTYPE html">": Defines the document type and version of HTML being used.
 
-* <html lang="en">: Specifies that the document is in English.
+* "<html lang="en"">": Specifies that the document is in English.
 
-* <head>: Contains metadata and links to external resources.
+* "<head">": Contains metadata and links to external resources.
 
-* <meta charset="UTF-8">: Defines the character encoding for the document as UTF-8.
+* "<meta charset="UTF-8"">": Defines the character encoding for the document as UTF-8.
 
-* <meta name="viewport" content="width=device-width, initial-scale=1.0">: Sets the viewport properties for responsive design.
+* "<meta name="viewport" content="width=device-width, initial-scale=1.0"">": Sets the viewport properties for responsive design.
 
-* <title>Vue Basics</title>: Sets the title of the webpage.
+* "<title>Vue Basics</title>": Sets the title of the webpage.
 
 * <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css">: Links to the Bootstrap CSS framework.
 
@@ -69,7 +69,7 @@ code index.html
 
 * <p>{{ content }}</p>: Displays the value of the content property using Vue.js template syntax.
 
-*<script>: Contains the JavaScript code for the Vue.js application.
+* <script>: Contains the JavaScript code for the Vue.js application.
 
 * Vue.createApp({ ... }): Creates a Vue application instance.
 
