@@ -41,7 +41,7 @@ code index.html
 3. Visit `http://127.0.0.1:5500/index.html` on your browser. Your should see the page below:
 
 ![index.html](./img/1.png)
-
+==
 
 4. Code explanation for index.html:
 
